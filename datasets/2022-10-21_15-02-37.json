@@ -1,0 +1,96 @@
+[
+ {
+  "no": 0,
+  "eventStart": -2116049715,
+  "eventEnd": -2115220578,
+  "operationStart": -2115949366,
+  "doOff": -2115549452,
+  "tA": 27634,
+  "tO": 399914,
+  "tR": 328874,
+  "eventResult": "Success",
+  "details": []
+ },
+ {
+  "no": 1,
+  "eventStart": -2110421455,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": -1,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": -2110421455,
+    "no": 1,
+    "DO": 1,
+    "ERROR": 0,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": -2110321076,
+    "no": 2,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": -2109921642,
+    "no": 3,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 2,
+  "eventStart": -2106010014,
+  "eventEnd": -2105232406,
+  "operationStart": -2105909613,
+  "doOff": -2105509847,
+  "tA": 32,
+  "tO": 399766,
+  "tR": 277441,
+  "eventResult": "Success",
+  "details": []
+ },
+ {
+  "no": 3,
+  "eventStart": -2089504991,
+  "eventEnd": -2088583028,
+  "operationStart": -2089404514,
+  "doOff": -2089004869,
+  "tA": 24680,
+  "tO": 399645,
+  "tR": 421841,
+  "eventResult": "Success",
+  "details": []
+ },
+ {
+  "no": 4,
+  "eventStart": -2084277554,
+  "eventEnd": -2080508906,
+  "operationStart": -2084177156,
+  "doOff": -2083777333,
+  "tA": 32,
+  "tO": 399823,
+  "tR": 3268427,
+  "eventResult": "Success",
+  "details": []
+ }
+]

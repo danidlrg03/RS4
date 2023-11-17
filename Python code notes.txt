@@ -1,0 +1,6 @@
+* The connect function to the robot didn't work; it needed auth.py to be implemented.
+* data executing state json parsing error; is fixed.
+* https does not work; use http.
+* port 443 does not work; remove, it is most likely port 80, it works if you leave it blank.
+
+* changed the several datasets path to a variable 

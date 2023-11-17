@@ -1,0 +1,783 @@
+[
+ {
+  "no": 0,
+  "eventStart": 1276848750,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": 1276848750,
+    "no": 1,
+    "DO": 1,
+    "ERROR": 0,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276848780,
+    "no": 2,
+    "DO": 1,
+    "ERROR": 0,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276869071,
+    "no": 3,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276926766,
+    "no": 4,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 1,
+  "eventStart": 1276926863,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1276926820,
+    "no": 5,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1276926863,
+    "no": 6,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276926894,
+    "no": 7,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276926915,
+    "no": 8,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276928556,
+    "no": 9,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276935436,
+    "no": 10,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 2,
+  "eventStart": 1276997062,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": 1276935490,
+    "no": 11,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1276965213,
+    "no": 12,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276965245,
+    "no": 13,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276985570,
+    "no": 14,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276997062,
+    "no": 15,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276997043,
+    "no": 16,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   }
+  ]
+ },
+ {
+  "no": 3,
+  "eventStart": -1,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": -1,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": 1276997096,
+    "no": 17,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276998525,
+    "no": 18,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 4,
+  "eventStart": 1276998714,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1276998608,
+    "no": 19,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1276998714,
+    "no": 20,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276998744,
+    "no": 21,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276998855,
+    "no": 22,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276998901,
+    "no": 23,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276998933,
+    "no": 24,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 5,
+  "eventStart": 1276999855,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1276998988,
+    "no": 25,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1276999855,
+    "no": 26,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276999885,
+    "no": 27,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1276999907,
+    "no": 28,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1276999959,
+    "no": 29,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277000639,
+    "no": 30,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 6,
+  "eventStart": 1277001021,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1277000693,
+    "no": 31,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1277001021,
+    "no": 32,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277001052,
+    "no": 33,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277002957,
+    "no": 34,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277004088,
+    "no": 35,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277005354,
+    "no": 36,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 7,
+  "eventStart": 1277005528,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1277005408,
+    "no": 37,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1277005528,
+    "no": 38,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277005558,
+    "no": 39,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277005646,
+    "no": 40,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277083929,
+    "no": 41,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277084713,
+    "no": 42,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 8,
+  "eventStart": 1277087480,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": 1277084766,
+    "no": 43,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1277087480,
+    "no": 44,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277087512,
+    "no": 45,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277107912,
+    "no": 46,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277117808,
+    "no": 47,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 9,
+  "eventStart": 1277121229,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1277117874,
+    "no": 48,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1277121229,
+    "no": 49,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277121260,
+    "no": 50,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1277125525,
+    "no": 51,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1277127555,
+    "no": 52,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1279921544,
+    "no": 53,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 10,
+  "eventStart": 1281174112,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": -1,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1279921598,
+    "no": 54,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1281174112,
+    "no": 55,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1281174135,
+    "no": 56,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1281174177,
+    "no": 57,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1282639802,
+    "no": 58,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ }
+]

@@ -1,0 +1,421 @@
+[
+ {
+  "no": 0,
+  "eventStart": 1516579938,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "TaError",
+  "details": [
+   {
+    "time": 1516579938,
+    "no": 1,
+    "DO": 1,
+    "ERROR": 0,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1516579968,
+    "no": 2,
+    "DO": 1,
+    "ERROR": 0,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1516600375,
+    "no": 3,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589615843,
+    "no": 4,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 1,
+  "eventStart": 1589615873,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": -1,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1589615873,
+    "no": 5,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589616055,
+    "no": 6,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589616169,
+    "no": 7,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589617589,
+    "no": 8,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 2,
+  "eventStart": 1589618433,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1589617642,
+    "no": 9,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1589618433,
+    "no": 10,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589618463,
+    "no": 11,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589620254,
+    "no": 12,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589620680,
+    "no": 13,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589620938,
+    "no": 14,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 3,
+  "eventStart": 1589620969,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1589620984,
+    "no": 15,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1589620969,
+    "no": 16,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589621504,
+    "no": 17,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589627663,
+    "no": 18,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589627693,
+    "no": 19,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589628902,
+    "no": 20,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 4,
+  "eventStart": 1589628962,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1589628962,
+    "no": 21,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589628998,
+    "no": 22,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589631973,
+    "no": 23,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589632075,
+    "no": 24,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589632545,
+    "no": 25,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ },
+ {
+  "no": 5,
+  "eventStart": 1589633130,
+  "eventEnd": -1,
+  "operationStart": 0,
+  "doOff": 0,
+  "tA": 0,
+  "tO": -1,
+  "tR": -1,
+  "eventResult": "NotDefined",
+  "details": [
+   {
+    "time": 1589632605,
+    "no": 26,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "InitState"
+   },
+   {
+    "time": 1589633130,
+    "no": 27,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 0,
+    "S2": 0,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589633160,
+    "no": 28,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ToolActivationState"
+   },
+   {
+    "time": 1589633441,
+    "no": 29,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589633471,
+    "no": 30,
+    "DO": 1,
+    "ERROR": 1,
+    "L1": 1,
+    "L2": 1,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "ErrorState"
+   },
+   {
+    "time": 1589640722,
+    "no": 31,
+    "DO": 0,
+    "ERROR": 1,
+    "L1": 0,
+    "L2": 0,
+    "S1": 1,
+    "S2": 1,
+    "STATE": "InitState"
+   }
+  ]
+ }
+]
